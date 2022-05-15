@@ -1,4 +1,5 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30&color=black"/>
 ![](rainbowDotFrames.gif)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
