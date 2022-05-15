@@ -1,5 +1,7 @@
 
 <div align="center">Hi there 👋</div>
+ <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/rainbowDotFrames.gif" alt="Hi, I'm Hermine 👋>
+
 <im
 ![](rainbowDotFrames.gif)
 <div id="header" align="center">
