@@ -1,9 +1,6 @@
 
-<div align="center">Hi there 👋</div>
- <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/rainbowDotFrames.gif" alt="Hi, I'm Hermine 👋>
+<div align="center"> <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋></div>
 
-<im
-![](rainbowDotFrames.gif)
 <div id="header" align="center">
  <img src="rainbowDotFrames.gif"/>
 </div>
