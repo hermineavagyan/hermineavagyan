@@ -1,5 +1,5 @@
 
-<!-- <div align="center"> <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋></div> -->
+<!-- <div align="center"> <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/intro.gif" alt="Hi, I'm Hermine 👋></div> -->
 
 
 ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif)
