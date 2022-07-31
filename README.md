@@ -8,6 +8,7 @@
   <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋>
  <img src="rainbowDotFrames.gif"/>
 </div>
+                                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hermineavagyan/">
