@@ -5,6 +5,9 @@
  
 <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
 <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
+ 
+<div align="center"><span style ="color:blue">CHECK MY SKILLSET HERE</span></div>
+ 
 <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/.
@@ -22,15 +25,15 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 
-
 <div id="badges" align="center">
 
  <hr>
-  <div><span style ="color:blue">YOU CAN ALSO FIND ME HERE</span>
- </div>
+  <div><span style ="color:blue">AND FIND ME HERE</span></div>
+ 
   <a href="https://www.linkedin.com/in/hermineavagyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
   <a href="https://twitter.com/hermine_avagyan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
