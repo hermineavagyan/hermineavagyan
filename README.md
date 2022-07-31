@@ -3,7 +3,7 @@
  <div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋></div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact)](https://github.com/hermineavagyan/github-readme-stats)
                                
 
 <div id="badges" align="center">
@@ -20,9 +20,7 @@
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 ---
 
 ### :woman_technologist: About Me :
