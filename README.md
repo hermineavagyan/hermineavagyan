@@ -1,13 +1,15 @@
 
 <!-- <div align="center"> <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/intro.gif" alt="Hi, I'm Hermine 👋></div> -->
 
+ 
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif)
+![Hey there, I'm Hermine. I'm a software developer. Check out my work](https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true)
 <div id="header" align="center">
  
   
 </div>
-                                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+                               
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hermineavagyan/">
