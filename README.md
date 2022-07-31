@@ -1,12 +1,14 @@
-<div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋></div> 
-<div>
- <img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
- <img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
+<!-- <div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋/></div>  -->
+# Hi,I'm Hermine
+ <div> 
+<img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif"/>
+ 
+ <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
+ <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
+ </div>
   
- </div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact)
+
 
 
 
