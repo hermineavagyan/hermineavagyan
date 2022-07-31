@@ -1,11 +1,22 @@
 <!-- <div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋/></div>  -->
-# Hi,I'm Hermine
- <div> 
-<img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif"/>
+
+<div> 
+<img  width="96%" height="300"src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif"/>
  
- <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
- <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
- </div>
+<img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
+<img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/.
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+
+</div>
   
 
 
