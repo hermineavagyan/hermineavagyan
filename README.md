@@ -1,14 +1,9 @@
 
-<!-- <div align="center"> <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/intro.gif" alt="Hi, I'm Hermine 👋></div> -->
+<!-- <div align="center"> <img width="600" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/intro.gif" alt="Hi, I'm Hermine 👋></div>  -->
+ <div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋></div> 
 
- 
-
-![Hey there, I'm Hermine. I'm a software developer. Check out my work](https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true)
-<div id="header" align="center">
- 
-  
-</div>
+
                                
 
 <div id="badges" align="center">
@@ -21,14 +16,10 @@
   <a href="https://twitter.com/hermine_avagyan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- 
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=hermineavagyan&style=flat-square&color=blue" alt=""/></div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
