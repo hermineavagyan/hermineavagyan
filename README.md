@@ -5,8 +5,7 @@
 ![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif)
 <div id="header" align="center">
  
-  <img src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋>
- <img src="rainbowDotFrames.gif"/>
+  
 </div>
                                 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
