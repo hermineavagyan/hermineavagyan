@@ -1,8 +1,8 @@
 <!-- <div align="center"> <img width="80%" height="300" src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif" alt="Hi, I'm Hermine 👋/></div>  -->
 
 <div> 
-<!-- <img  width="96%" height="300"src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif"/> -->
- <img  width="96%" height="300"src="https://github.com/hermineavagyan/hermineavagyan/raw/main/introText2.gif"/>
+<img  width="96%" height="300"src="https://github.com/hermineavagyan/hermineavagyan/raw/main/newRelic.gif"/>
+<!--  <img  width="96%" height="300"src="https://github.com/hermineavagyan/hermineavagyan/raw/main/introText2.gif"/> -->
  
 <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api?username=hermineavagyan&theme=algolia&show_icons=true"/>
 <img align="left" height = "30%" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermineavagyan&theme=dark&layout=compact"/>
